@@ -1,0 +1,22 @@
+.container-fluid{
+    background-image: url(Gambar/itl.cat_4k-landscape-wallpaper_2366806.png);
+    background-attachment: fixed;
+    margin-top: 50px;
+}
+.biru{
+    
+    color: blue;
+}
+#oren{
+    background-color: orange;
+}
+body{
+    background-attachment: fixed;
+    background-image: url(Gambar/796843.png);
+}
+#putih{
+    color: papayawhip;
+}
+.biruu{
+    color: blue;
+}
