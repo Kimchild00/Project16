@@ -1,0 +1,22 @@
+#jum{
+    background: url(../Project16/koding.jpg);
+    background-size: cover;
+    height: 500px;
+}
+.display-4{
+    color: #fff;
+}
+.display-4:hover{
+    color: #00aace;
+}
+.tulisan{
+    background-color: #00aace;
+    color: black;
+}
+.carousel-inner img{
+    /* margin: auto; */
+}
+.carousel-caption {
+    color:black;
+
+}
