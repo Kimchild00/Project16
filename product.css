@@ -34,3 +34,7 @@ img.blur {
 .container-basic {
     background-color: rgb(218, 211, 211);
 }
+
+h4:hover {
+    color: blue;
+}
